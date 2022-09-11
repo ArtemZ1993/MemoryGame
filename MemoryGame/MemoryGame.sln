@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5_MemoryGame", "Ex5_MemoryGame\Ex5_MemoryGame.csproj", "{7F19CAA7-F0DA-4640-9E8B-9BBC4EEE8C0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C6CBF133-1639-4DB8-B60E-78F45604814E}"
+	ProjectSection(SolutionItems) = preProject
+		Report.txt = Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F19CAA7-F0DA-4640-9E8B-9BBC4EEE8C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F19CAA7-F0DA-4640-9E8B-9BBC4EEE8C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F19CAA7-F0DA-4640-9E8B-9BBC4EEE8C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F19CAA7-F0DA-4640-9E8B-9BBC4EEE8C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B7241E-2B53-4EB4-A831-611218E5E555}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: Artem Zinenko
+Second Student Details: David Chernin
+Delivery Date.........: 6 - July - 2020
+Delivered In Delay....: No. 
+Delay Reason..........: Submitted on time.
+Visual Studio Version.: 2017
+Comments..............: No Comments.
+========================End Exercise Checking Report========================
+
+

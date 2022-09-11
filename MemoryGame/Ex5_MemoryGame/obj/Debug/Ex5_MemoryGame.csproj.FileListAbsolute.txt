@@ -1,0 +1,10 @@
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\bin\Debug\DN_HIT_2020B_Ex05.exe
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\bin\Debug\DN_HIT_2020B_Ex05.pdb
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\obj\Debug\Ex5_MemoryGame.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\obj\Debug\Ex5_MemoryGame.MemoryGame.resources
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\obj\Debug\Ex5_MemoryGame.MemoryGameSettings.resources
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\obj\Debug\DN_HIT_2020B_Ex05.Properties.Resources.resources
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\obj\Debug\Ex5_MemoryGame.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\obj\Debug\Ex5_MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\obj\Debug\DN_HIT_2020B_Ex05.exe
+C:\Users\Artem\source\repos\C#\תרגיל 5\B20 Ex05 ArtemZinenko 321040099 DavidChernin 212172654\Ex5_MemoryGame\obj\Debug\DN_HIT_2020B_Ex05.pdb
